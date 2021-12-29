@@ -1,0 +1,15 @@
+C:\Users\Lenovo\Desktop\Palindrome-Dotnet\bin\Debug\net6.0\Palindrome-Dotnet.exe
+C:\Users\Lenovo\Desktop\Palindrome-Dotnet\bin\Debug\net6.0\Palindrome-Dotnet.deps.json
+C:\Users\Lenovo\Desktop\Palindrome-Dotnet\bin\Debug\net6.0\Palindrome-Dotnet.runtimeconfig.json
+C:\Users\Lenovo\Desktop\Palindrome-Dotnet\bin\Debug\net6.0\Palindrome-Dotnet.dll
+C:\Users\Lenovo\Desktop\Palindrome-Dotnet\bin\Debug\net6.0\ref\Palindrome-Dotnet.dll
+C:\Users\Lenovo\Desktop\Palindrome-Dotnet\bin\Debug\net6.0\Palindrome-Dotnet.pdb
+C:\Users\Lenovo\Desktop\Palindrome-Dotnet\obj\Debug\net6.0\Palindrome-Dotnet.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\Palindrome-Dotnet\obj\Debug\net6.0\Palindrome-Dotnet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\Palindrome-Dotnet\obj\Debug\net6.0\Palindrome-Dotnet.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\Palindrome-Dotnet\obj\Debug\net6.0\Palindrome-Dotnet.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\Palindrome-Dotnet\obj\Debug\net6.0\Palindrome-Dotnet.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\Palindrome-Dotnet\obj\Debug\net6.0\Palindrome-Dotnet.dll
+C:\Users\Lenovo\Desktop\Palindrome-Dotnet\obj\Debug\net6.0\ref\Palindrome-Dotnet.dll
+C:\Users\Lenovo\Desktop\Palindrome-Dotnet\obj\Debug\net6.0\Palindrome-Dotnet.pdb
+C:\Users\Lenovo\Desktop\Palindrome-Dotnet\obj\Debug\net6.0\Palindrome-Dotnet.genruntimeconfig.cache
